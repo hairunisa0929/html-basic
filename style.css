@@ -1,0 +1,42 @@
+#title {
+    font-size: 12px;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    color: red;
+}  
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 14px;
+}
+
+p.normal {
+    font-style: normal;
+}
+  
+p.italic {
+    font-style: italic;
+}
+  
+p.oblique {
+    font-style: oblique;
+}
+
+p.normal {
+    font-weight: normal;
+  }
+  
+p.thick {
+    font-weight: bold;
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
